@@ -6,3 +6,5 @@
 **Autor**:  Jose Manuel Canencia Santiago
 
 **Fecha**:  16/05/2024
+
+![Cultura Digital](./Imagenes/hibridacion.jpg)
