@@ -30,4 +30,4 @@ En un medio **multimedia**, los distintos tipos de medios (audio,texto, video) s
 ## [BlaBlaCar](https://www.blablacar.es/) Hibridación en movimiento
 ![blablacar](blablacar_icon.jpg)
 
-BlaBlaCar surge en Francia en 2006 como una aplicación de viajes compartidos, facilitando la conexión entre conductores que realizan una determinada ruta y pasajeros hacia el mismo destino que buscan un medio de transporte económico y conveniente. Esta plataforma es un destacado ejemplo de hibridación de medios ya que fusiona elementos de redes sociales donde conductores y pasajeros intercambian experiencias en un sistema de evaluación junto a un sistema de geolocalización. 
+**BlaBlaCar** surge en Francia en 2006 como una aplicación de viajes compartidos, facilitando la conexión entre conductores que realizan una determinada ruta y pasajeros hacia el mismo destino que buscan un medio de transporte económico y conveniente. Esta plataforma es un destacado ejemplo de hibridación de medios ya que fusiona elementos de redes sociales donde conductores y pasajeros intercambian experiencias en un sistema de evaluación junto a un sistema de geolocalización. 
