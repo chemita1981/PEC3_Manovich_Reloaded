@@ -7,6 +7,6 @@
 
 **Autor**:  Jose Manuel Canencia Santiago   **Fecha**:  16/05/2024
 
-## ¿Que es una hibridación de medios?
+## ¿Que es la hibridación de medios?
 
 La **hibridación**, según Manovich, es el resultado de la combinación y la fusión de diferentes medios y técnicas que tiene como resultado plataformas y formatos novedosos, los cuales antes no eran posibles sin la capacidad del software moderno. 
