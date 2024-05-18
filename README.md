@@ -16,3 +16,4 @@ Toda esta transformación, lleva consigo un cambio en la percepción de los medi
 ## ¿Cómo reconocemos una hibridación?
 
 Según Lev Manovich, la hibridación de medios supone la fusión de dos o más medios distintos que tiene como resultado un medio completamente **nuevo**, es decir, los elementos de los medios convergentes se integran dando lugar a otro medio, el cual no puede descomponerse fácilmente en sus componentes originales. 
+Esta convergencia introduce nuevas funcionalidades y formas de interacción al medio resultante que no existían en ninguno de los medios originales de forma aislada. 
