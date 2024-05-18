@@ -31,3 +31,7 @@ En un medio **multimedia**, los distintos tipos de medios (audio, texto, video) 
 ![blablacar](blablacar_icon.jpg)
 
 **BlaBlaCar** surge en Francia en 2006 como una aplicación de viajes compartidos, facilitando la conexión entre conductores que realizan una determinada ruta y pasajeros hacia el mismo destino que buscan un medio de transporte económico y conveniente. Esta plataforma es un destacado ejemplo de hibridación de medios ya que fusiona elementos de redes sociales donde conductores y pasajeros intercambian experiencias en un sistema de evaluación junto a un sistema de geolocalización. 
+
+Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones principales: optimizar las rutas de viaje y tejer una red comunitaria conductores-pasajeros. 
+
+Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales tradicionales permitiendo a los usuarios revisar perfiles y puntuaciones de otros usuarios, enviar mensajes y compartir experiencias mediante comentarios, creando un entorno de confianza y colaboración entre los usuarios. Este enfoque híbrido extiende la funcionalidad de BlaBlaCar más allá del transporte, convirtiéndola en una comunidad en movimiento. 
