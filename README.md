@@ -7,4 +7,4 @@
 
 **Fecha**:  16/05/2024
 
-![Cultura Digital](.hibridacion.jpg)
+![Cultura Digital](hibridacion.jpg)
