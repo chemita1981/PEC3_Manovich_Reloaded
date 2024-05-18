@@ -28,3 +28,4 @@ En un medio **multimedia**, los distintos tipos de medios (audio,texto, video) s
 **La remediación** en cambio, implica tomar un medio existente para ser recontextualizado dentro de otro, manteniendo un vínculo claro con su forma original. 
 
 ## [BLABLACAR](https://www.blablacar.es/)
+![blablacar](blablacar_icon.jpg)
