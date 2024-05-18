@@ -25,4 +25,4 @@ Para reconocer un medio híbrido, debemos buscar ejemplos donde se evidencie una
 
 En un medio **multimedia**, los distintos tipos de medios (audio,texto, video) son identificables de forma separada y operan de manera independiente dentro de un mismo entorno. 
 
-**La remediación** en cambio implica tomar un medio existente para ser recontextualizado dentro de otro, manteniendo un vínculo claro con su forma original. 
+**La remediación** en cambio, implica tomar un medio existente para ser recontextualizado dentro de otro, manteniendo un vínculo claro con su forma original. 
