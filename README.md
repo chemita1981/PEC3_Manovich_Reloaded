@@ -40,8 +40,6 @@ BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema nove
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
 
- La integración de estas herramientas tecnológicas tanto de geolocalización como de gestión de pagos con elementos de redes sociales subraya la naturaleza híbrida de BlaBlaCar como una red social móvil. 
-
  ## Conclusiones
  
 
