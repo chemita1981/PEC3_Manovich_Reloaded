@@ -35,7 +35,7 @@ Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales 
 ## Comunidad BlaBlaCar 
 A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan la participación y mejora continua del servicio dentro de la comunidad. 
 
-## Hibridación en el uso tecnologico
+## Hibridación en el uso tecnológico
 BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema novedoso **‘Boost’**. Mediante esta tecnología, los conductores de BlaBlaCar pueden encontrar nuevos pasajeros en diferentes puntos de su ruta, ya que los viajeros ahora tienen la posibilidad de enviar solicitudes de reserva adicionales una vez que el viaje ya ha comenzado. Esta nueva tecnología implanta una funcionalidad nueva a la aplicación además de las ya existentes como la planificación de rutas, eventos y actividades que pueden interesar a los usuarios en sus destinos. 
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
