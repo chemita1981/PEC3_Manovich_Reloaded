@@ -17,8 +17,10 @@ La hibridación, según **Lev Manovich**, se produce cuando “Las propiedades y
 
 Según Lev Manovich, la hibridación de medios supone la fusión de dos o más medios distintos que tiene como resultado un medio completamente **nuevo**, es decir, los elementos de los medios convergentes se integran dando lugar a otro medio, el cual no puede descomponerse fácilmente en sus componentes originales. Esta convergencia introduce nuevas funcionalidades y formas de interacción al medio resultante que no existían en ninguno de los medios originales de forma aislada.
 
-Para reconocer un medio híbrido, debemos buscar ejemplos donde se evidencie una integración de diferentes tipos de medios, con nuevas formas de contenido y funcionalidades que no se puedan atribuir a ninguno de los medios originales. Es precisamente este concepto donde radica la diferencia de un medio híbrido con respecto a multimedia o remediación.  
+Para reconocer un medio híbrido, debemos buscar ejemplos donde se evidencie una integración de diferentes tipos de medios, con nuevas formas de contenido y funcionalidades que no se puedan atribuir a ninguno de los medios originales. Es precisamente este concepto donde radica la diferencia de un medio híbrido con respecto a multimedia o remediación.
+
 En un medio **multimedia**, los distintos tipos de medios (audio, texto, video) son identificables de forma separada y operan de manera independiente dentro de un mismo entorno. 
+
 **La remediación** en cambio implica tomar un medio existente para ser recontextualizado dentro de otro, manteniendo un vínculo claro con su forma original. 
 
 ## [BlaBlaCar](https://www.blablacar.es/) Hibridación en movimiento
