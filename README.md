@@ -48,3 +48,20 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 
 ## [Amazon GO](https://www.amazon.com/-/es/b?ie=UTF8&node=16008589011) ¡GO Hibridación, GO!
 ![CulturaDigital](AMAZON_GO1.png)
+
+Lorem itsum......
+
+## Bibliografía & Webgrafía
+
+lorem itsum..
+
+Historia de BlaBlaCar:  https://blog.blablacar.es/about-us/nuestra-historia  
+
+Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-saber-blablacar-plataforma-compartir-coche-referencia-espana  
+
+Tecnologia Boost BlaBlaCar: https://blog.blablacar.es/newsroom/noticias/blablacar-lanza-boost-una-tecnologia-que-duplica-las-posibilidades-de-encontrar-coche-compartido  
+
+Soporte BlablaCar/ Formas de pago/gestion de cobro: https://support.blablacar.com/hc/es/articles/4405735631377-Formas-de-pago-aceptadas  
+
+El Software toma el mando [Lev Manovich, 2013] 
+
