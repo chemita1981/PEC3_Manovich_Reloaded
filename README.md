@@ -9,7 +9,7 @@
 
 ## INTRODUCCIÓN
 
-## ¿Qué es la hibridación de medios?
+# ¿Qué es la hibridación de medios?
 
 La hibridación, según **Lev Manovich**, se produce cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183). Por tanto, la hibridación es el resultado de la combinación y la fusión de diferentes medios y técnicas que tiene como resultado plataformas y formatos novedosos, los cuales antes no eran posibles sin la capacidad del software moderno. Este concepto de hibridación cambia en gran medida la forma en que entendemos y utilizamos los medios. Anteriormente, cada medio se consumía a través de plataformas distintas y específicas (libros, radio, televisión). En el entorno digital actual, los límites entre medios distintos se vuelven borrosos, se combinan de manera fluida en una única plataforma. Estos medios híbridos se vuelven más complejos y enriquecidos, brindando una experiencia más inmersiva para el usuario. Toda esta transformación, lleva consigo un cambio en la percepción de los medios, surgen nuevas formas de interacción, habilidades de consumo y una redefinición de lo que significa ser un creador y un consumidor de contenido en la era digital. Ejemplos de esta hibridación de medios son las aplicaciones **BlaBlacar** y **Amazon GO**. 
 
@@ -31,3 +31,6 @@ En un medio **multimedia**, los distintos tipos de medios (audio, texto, video) 
 Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones principales: optimizar las rutas de viaje y tejer una red comunitaria conductores-pasajeros. 
 
 Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales tradicionales permitiendo a los usuarios revisar perfiles y puntuaciones de otros usuarios, enviar mensajes y compartir experiencias mediante comentarios, creando un entorno de confianza y colaboración entre los usuarios. Este enfoque híbrido extiende la funcionalidad de BlaBlaCar más allá del transporte, convirtiéndola en una comunidad en movimiento. 
+
+## Comunidad BlaBlaCar 
+A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan una cultura de participación y mejora continua del servicio dentro de la comunidad. 
