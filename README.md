@@ -34,3 +34,6 @@ Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales 
 
 ## Comunidad BlaBlaCar 
 A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan una cultura de participación y mejora continua del servicio dentro de la comunidad. 
+
+## Hibridación en el uso tecnologico
+
