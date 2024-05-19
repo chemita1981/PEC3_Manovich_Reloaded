@@ -49,11 +49,15 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 ## [Amazon GO](https://www.amazon.com/-/es/b?ie=UTF8&node=16008589011) ¡GO Hibridación, GO!
 ![CulturaDigital](AMAZON_GO1.png)
 
-Lorem itsum......
+Lorem ipsum......
 
+ ## Conclusiones
+ 
+ Lorem Ipsum..
+ 
 ## Bibliografía & Webgrafía
 
-lorem itsum..
+Lorem ipsum..
 
 Historia de BlaBlaCar:  https://blog.blablacar.es/about-us/nuestra-historia  
 
