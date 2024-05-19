@@ -42,4 +42,6 @@ Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión d
 
  ## Conclusiones
  
+BlaBlaCar trasciende su papel como una simple aplicación de carpooling para convertirse en una plataforma **híbrida** que mezcla transporte, tecnología de geolocalización, transacción de pagos y red social. 
 
+Según Lev Manovich, “la hibridación se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión y funcionalidad” (Manovich, 2013, p.194). BlaBlaCar es un claro ejemplo de este concepto de hibridación que combina diferentes tecnologías y establece nuevos modos de interacción y comunicación en los viajes compartidos que van más allá del transporte tradicional. 
