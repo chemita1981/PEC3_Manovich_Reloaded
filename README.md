@@ -42,3 +42,6 @@ Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión d
 
  La integración de estas herramientas tecnológicas tanto de geolocalización como de gestión de pagos con elementos de redes sociales subraya la naturaleza híbrida de BlaBlaCar como una red social móvil. 
 
+ ## Conclusiones
+ 
+
