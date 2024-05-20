@@ -9,11 +9,11 @@
 
 ## INTRODUCCIÓN
 
-# ¿Qué es la hibridación de medios?
+### ¿Qué es la hibridación de medios?
 
 La hibridación, según **Lev Manovich**, se produce cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183). Por tanto, la hibridación es el resultado de la combinación y la fusión de diferentes medios y técnicas que tiene como resultado plataformas y formatos novedosos, los cuales antes no eran posibles sin la capacidad del software moderno. Este concepto de hibridación cambia en gran medida la forma en que entendemos y utilizamos los medios. Anteriormente, cada medio se consumía a través de plataformas distintas y específicas (libros, radio, televisión). En el entorno digital actual, los límites entre medios distintos se vuelven borrosos, se combinan de manera fluida en una única plataforma. Estos medios híbridos se vuelven más complejos y enriquecidos, brindando una experiencia más inmersiva para el usuario. Toda esta transformación, lleva consigo un cambio en la percepción de los medios, surgen nuevas formas de interacción, habilidades de consumo y una redefinición de lo que significa ser un creador y un consumidor de contenido en la era digital. Ejemplos de esta hibridación de medios son las aplicaciones **BlaBlacar** y **Amazon GO**. 
 
-## ¿Cómo reconocemos una hibridación?
+### ¿Cómo reconocemos una hibridación?
 
 Según Lev Manovich, la hibridación de medios supone la fusión de dos o más medios distintos que tiene como resultado un medio completamente **nuevo**, es decir, los elementos de los medios convergentes se integran dando lugar a otro medio, el cual no puede descomponerse fácilmente en sus componentes originales. Esta convergencia introduce nuevas funcionalidades y formas de interacción al medio resultante que no existían en ninguno de los medios originales de forma aislada.
 
@@ -32,15 +32,15 @@ Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones princ
 
 Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales tradicionales permitiendo a los usuarios revisar perfiles y puntuaciones de otros usuarios, enviar mensajes y compartir experiencias mediante comentarios, creando un entorno de confianza y colaboración entre los usuarios. Este enfoque híbrido extiende la funcionalidad de BlaBlaCar más allá del transporte, convirtiéndola en una comunidad en movimiento. 
 
-## Comunidad BlaBlaCar 
+### Comunidad BlaBlaCar 
 A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan la participación y mejora continua del servicio dentro de la comunidad. 
 
-## Hibridación en el uso tecnológico
+### Hibridación en el uso tecnológico
 BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema novedoso **‘Boost’**. Mediante esta tecnología, los conductores de BlaBlaCar pueden encontrar nuevos pasajeros en diferentes puntos de su ruta, ya que los viajeros ahora tienen la posibilidad de enviar solicitudes de reserva adicionales una vez que el viaje ya ha comenzado. Esta nueva tecnología implanta una funcionalidad nueva a la aplicación además de las ya existentes como la planificación de rutas, eventos y actividades que pueden interesar a los usuarios en sus destinos. 
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
 
- ## Conclusiones
+ ### Conclusiones
  
 BlaBlaCar trasciende su papel como una simple aplicación de carpooling para convertirse en una plataforma **híbrida** que mezcla transporte, tecnología de geolocalización, transacción de pagos y red social. 
 
@@ -51,7 +51,7 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 
 **Amazon GO**, presentada al público por primera vez en 2018 en Seattle, Estados Unidos, es una cadena de tiendas minoristas de Amazon pensada para brindar una experiencia de compra rápida y eficiente. Emplea la última tecnología en inteligencia artificial, sensores y cámaras denominado **"Just Walk Out”** para que los clientes puedan entrar, coger los productos que quieran y salir sin pasar por caja, ya que el importe se carga directamente a su cuenta de Amazon. Esta combinación de diferentes tecnologías y métodos tiene como resultado una experiencia de compra completamente nueva. 
 
-# Just Walk Out... ¿cómo funciona? 
+### Just Walk Out... ¿cómo funciona? 
 
 El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres características esenciales:  
 
@@ -61,7 +61,7 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 **Finalización de la transacción**: al salir, el sistema carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora. 
 
- ## Conclusiones
+ ### Conclusiones
  
  Lorem Ipsum..
  
