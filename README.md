@@ -49,7 +49,7 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 ## [Amazon GO](https://www.amazon.com/-/es/b?ie=UTF8&node=16008589011) ¡GO Hibridación, GO!
 ![CulturaDigital](AMAZON_GO1.png)
 
-Lorem ipsum......
+Presentada por primera vez al público en 2018 en Seattle, Estados Unidos, **Amazon GO** es una cadena de tiendas minoristas creada para ofrecer una experiencia de compra rápida y eficiente. Utiliza una combinación de inteligencia artificial, sensores y cámaras para que los clientes puedan entrar, coger los productos que desean y salir sin pasar por una caja, ya que el importe se carga directamente a su cuenta de Amazon. 
 
  ## Conclusiones
  
