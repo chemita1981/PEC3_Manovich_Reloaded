@@ -51,6 +51,15 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 
 **Amazon GO**, presentada al público por primera vez en 2018 en Seattle, Estados Unidos, es una cadena de tiendas minoristas de Amazon pensada para brindar una experiencia de compra rápida y eficiente. Emplea la última tecnología en inteligencia artificial, sensores y cámaras denominado **"Just Walk Out”** para que los clientes puedan entrar, coger los productos que quieran y salir sin pasar por caja, ya que el importe se carga directamente a su cuenta de Amazon. Esta combinación de diferentes tecnologías y métodos tiene como resultado una experiencia de compra completamente nueva. 
 
+## Just Walk Out... ¿cómo funciona? 
+
+El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres características esenciales:  
+
+**Identificación del cliente**: para ingresar a la tienda, los clientes escanean un código QR para identificarse. 
+
+**Detección y seguimiento de productos**: una vez dentro, una combinación de cámaras, sensores y algoritmos avanzados de visión 3D detecta y sigue los productos que los clientes retiran de los estantes. 
+
+**Finalización de la transacción**: al salir, el sistema carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora. 
 
  ## Conclusiones
  
