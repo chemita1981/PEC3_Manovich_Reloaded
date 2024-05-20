@@ -59,7 +59,10 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 >**Detección y seguimiento de productos**: una vez dentro de la tienda, una combinación de cámaras, sensores y algoritmos avanzados de aprendizaje automático (machine learning) detecta y sigue los productos que los clientes retiran de los estantes. 
 
->**Finalización de la transacción**: al salir del establecimiento, la infraestructura en la nube de Amazon Web Services (AWS) carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora. 
+>**Finalización de la transacción**: al salir del establecimiento, la infraestructura en la nube de Amazon Web Services (AWS) carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora.
+
+
+### Pero entonces... ¿donde esta la hibridación en Amazon GO?
 
  ### Conclusiones
  
