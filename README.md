@@ -53,11 +53,11 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 
 ### Just Walk Out... ¿cómo funciona? 
 
-El sistema "Just Walk Out" de Amazon GO funciona gracias a tres características principales:  
+El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres características esenciales:  
 
 **Identificación del cliente**: para ingresar a la tienda, los clientes escanean un código QR para identificarse. 
 
-**Detección y seguimiento de productos**: una vez dentro, una combinación de cámaras, sensores y algoritmos avanzados de visión 3D detecta y sigue los productos que los clientes retiran de los estantes. 
+**Detección y seguimiento de productos**: una vez dentro de la tienda, una combinación de cámaras, sensores y algoritmos avanzados de aprendizaje automático (machine learning) detecta y sigue los productos que los clientes retiran de los estantes. 
 
 **Finalización de la transacción**: al salir, el sistema carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora. 
 
