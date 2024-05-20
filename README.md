@@ -64,6 +64,8 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 ### Pero entonces... ¿donde esta la hibridación en Amazon GO?
 
+Lorem Ipsum..
+
  ### Conclusiones
  
  Lorem Ipsum..
