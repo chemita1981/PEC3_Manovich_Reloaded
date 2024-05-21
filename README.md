@@ -33,13 +33,17 @@ Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones princ
 Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales tradicionales permitiendo a los usuarios revisar perfiles y puntuaciones de otros usuarios, enviar mensajes y compartir experiencias mediante comentarios, creando un entorno de confianza y colaboración entre los usuarios. Este enfoque híbrido extiende la funcionalidad de BlaBlaCar más allá del transporte, convirtiéndola en una comunidad en movimiento. 
 
 ### Comunidad BlaBlaCar 
-<img align="left" src="carsharing.jpg" alt="Workplace culture" style="width: 42%; margin-right: 20px;">
 A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan la participación y mejora continua del servicio dentro de la comunidad. 
 
 ### Hibridación en el uso tecnológico
+<img align="left" src="carsharing.jpg" alt="Workplace culture" style="width: 25%; margin-right: 48px;">
 BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema novedoso **‘Boost’**. Mediante esta tecnología, los conductores de BlaBlaCar pueden encontrar nuevos pasajeros en diferentes puntos de su ruta, ya que los viajeros ahora tienen la posibilidad de enviar solicitudes de reserva adicionales una vez que el viaje ya ha comenzado. Esta nueva tecnología implanta una funcionalidad nueva a la aplicación además de las ya existentes como la planificación de rutas, eventos y actividades que pueden interesar a los usuarios en sus destinos. 
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
+
+
+
+
 
  ### Conclusiones
  
