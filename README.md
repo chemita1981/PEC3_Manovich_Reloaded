@@ -63,6 +63,7 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 
 ### Pero entonces... ¿donde esta la hibridación en Amazon GO?
+En el caso concreto de Amazon GO, la combinación de diversas tecnologías y medios se fusiona para ofrecer una experiencia de compra totalmente innovadora. 
 
 Lorem Ipsum..
 
