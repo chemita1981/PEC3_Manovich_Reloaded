@@ -65,8 +65,8 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 ### Pero entonces... ¿donde esta la hibridación en Amazon GO?
 En el caso concreto de Amazon GO, la integración de diferentes tecnologías y medios se fusiona para ofrecer una experiencia de compra completamente innovadora, alineándose así con las teorías de Lev Manovich sobre la softwarización de la cultura. 
 Amazon GO fusiona lo mejor de los 2 mundos, por un lado, los clientes interactúan con una tienda **fisica** para elegir y comprar toda clase de productos y por otro lado se emplean aplicaciones móviles y servicios en la nube para gestionar la compra y el pago por medios digitales. 
+El uso de machine learning combinado con sensores de peso en las propias baldas, hace posible identificar y seguir los productos en tiempo real con muy poca intervención por parte del cliente. Los sensores detectan cuando un cliente toma o devuelve un artículo, y los algoritmos de machine learning procesan esta información para actualizar automáticamente el carrito de compra de la aplicación. Este sistema elimina la necesidad de escanear productos o interactuar con el personal, ofreciendo así una experiencia de compra fluida y eficiente. 
 
-Lorem Ipsum..
 
  ### Conclusiones
  
