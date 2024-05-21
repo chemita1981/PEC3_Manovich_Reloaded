@@ -64,6 +64,7 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 ### Pero entonces... ¿donde esta la hibridación en Amazon GO?
 En el caso concreto de Amazon GO, la integración de diferentes tecnologías y medios se fusiona para ofrecer una experiencia de compra completamente innovadora, alineándose así con las teorías de Lev Manovich sobre la softwarización de la cultura. 
+Amazon GO fusiona lo mejor de los 2 mundos, por un lado, los clientes interactúan con una tienda **fisica** para elegir y comprar toda clase de productos y por otro lado se emplean aplicaciones móviles y servicios en la nube para gestionar la compra y el pago por medios digitales. 
 
 Lorem Ipsum..
 
