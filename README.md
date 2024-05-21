@@ -73,7 +73,7 @@ Finalmente, Amazon GO se integra con otros servicios digitales de Amazon, como *
 
  ### Conclusiones
  
- Lorem Ipsum..
+Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elementos técnicos para crear nuevas formas de interacción con el usuario. Al integrar algoritmos de machine learning, sensores de peso, códigos QR de identificación, sistema de pago en la nube y demás medios tecnológicos de última generación, Amazon GO transforma la manera en que las personas compran en tiendas físicas, alineándose con las ideas de Lev Manovich sobre la softwarización de la cultura. La tienda de Amazon GO no solo redefine la experiencia de compra, sino que también muestra cómo la última tecnología puede crear ecosistemas interconectados para ofrecer una experiencia al usuario completamente innovadora. 
  
 ## Bibliografía & Webgrafía
 
