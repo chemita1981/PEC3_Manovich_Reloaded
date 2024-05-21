@@ -26,6 +26,8 @@ En un medio **multimedia**, los distintos tipos de medios (audio, texto, video) 
 ## [BlaBlaCar](https://www.blablacar.es/) Hibridación en movimiento
 ![blablacar](blablacar_icon.jpg)
 
+$~$
+
 **BlaBlaCar** surge en Francia en 2006 como una aplicación de viajes compartidos, facilitando la conexión entre conductores que realizan una determinada ruta y pasajeros hacia el mismo destino que buscan un medio de transporte económico y conveniente. Esta plataforma es un destacado ejemplo de hibridación de medios ya que fusiona elementos de redes sociales donde conductores y pasajeros intercambian experiencias en un sistema de evaluación junto a un sistema de geolocalización. 
 
 Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones principales: optimizar las rutas de viaje y tejer una red comunitaria conductores-pasajeros. 
@@ -40,10 +42,6 @@ BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema nove
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
 
-
-
-
-
  ### Conclusiones
  
 BlaBlaCar trasciende su papel como una simple aplicación de carpooling para convertirse en una plataforma **híbrida** que mezcla transporte, tecnología de geolocalización, transacción de pagos y red social. 
@@ -52,6 +50,8 @@ Según Lev Manovich, “la hibridación se refiere a la combinación de diferent
 
 ## [Amazon GO](https://www.amazon.com/-/es/b?ie=UTF8&node=16008589011) ¡GO Hibridación, GO!
 ![CulturaDigital](AMAZON_GO1.png)
+
+$~$
 
 **Amazon GO**, presentada al público por primera vez en 2018 en Seattle, Estados Unidos, es una cadena de tiendas minoristas de Amazon pensada para brindar una experiencia de compra rápida y eficiente. Emplea la última tecnología en inteligencia artificial, sensores y cámaras denominado **"Just Walk Out”** para que los clientes puedan entrar, coger los productos que quieran y salir sin pasar por caja, ya que el importe se carga directamente a su cuenta de Amazon. Esta combinación de diferentes tecnologías y métodos tiene como resultado una experiencia de compra completamente nueva. 
 
