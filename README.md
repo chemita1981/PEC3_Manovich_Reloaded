@@ -33,6 +33,7 @@ Por un lado, el sistema de geolocalización de BlaBlaCar tiene 2 funciones princ
 Por otro lado, la interfaz de la aplicación integra aspectos de redes sociales tradicionales permitiendo a los usuarios revisar perfiles y puntuaciones de otros usuarios, enviar mensajes y compartir experiencias mediante comentarios, creando un entorno de confianza y colaboración entre los usuarios. Este enfoque híbrido extiende la funcionalidad de BlaBlaCar más allá del transporte, convirtiéndola en una comunidad en movimiento. 
 
 ### Comunidad BlaBlaCar 
+<img align="left" src="https://img.freepik.com/free-vector/workplace-culture-abstract-concept-vector-illustration-shared-values-belief-systems-attitude-work-company-team-corporate-culture-high-performance-employee-health-abstract-metaphor_335657-6126.jpg?w=826&t=st=1716217577~exp=1716218177~hmac=5b5490ac0c328cf722dd664df10e26a989f103d576233028ecb27de5a4171dc6" alt="Workplace culture" style="width: 42%; margin-right: 20px;">
 A través de interacciones como valoraciones o recomendaciones, muy similar a otras plataformas como LinkedIn o TripAdvisor, los usuarios de BlaBlaCar tienen la opción de participar en una comunidad propia a modo de red social. Estas interacciones promueven la implementación de sistemas de recompensas y logros que incentivan la participación y mejora continua del servicio dentro de la comunidad. 
 
 ### Hibridación en el uso tecnológico
