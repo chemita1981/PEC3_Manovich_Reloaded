@@ -75,9 +75,11 @@ Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elemen
  
 ## Bibliografía & Webgrafía
 
-Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
-Historia de BlaBlaCar:  https://blog.blablacar.es/about-us/nuestra-historia  
+* Arte TV. **Autotune, el photoshop de la voz.** [Descúbrelo aquí](https://www.arte.tv/es/videos/104734-001-A/auto-tune-el-photoshop-de-la-voz-1-6/)
+
+**Historia de BlaBlaCar**: Descúbrelño aquí](https://blog.blablacar.es/about-us/nuestra-historia) 
 
 Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-saber-blablacar-plataforma-compartir-coche-referencia-espana  
 
