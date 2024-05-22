@@ -75,6 +75,8 @@ Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elemen
  
 ## Bibliografía & Webgrafía
 
+Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+
 Historia de BlaBlaCar:  https://blog.blablacar.es/about-us/nuestra-historia  
 
 Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-saber-blablacar-plataforma-compartir-coche-referencia-espana  
@@ -82,8 +84,6 @@ Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-sabe
 Tecnologia Boost BlaBlaCar: https://blog.blablacar.es/newsroom/noticias/blablacar-lanza-boost-una-tecnologia-que-duplica-las-posibilidades-de-encontrar-coche-compartido  
 
 Soporte BlablaCar/ Formas de pago/gestion de cobro: https://support.blablacar.com/hc/es/articles/4405735631377-Formas-de-pago-aceptadas  
-
-El Software toma el mando [Lev Manovich, 2013] 
 
 Amazon GO official website: https://www.amazon.com/b?ie=UTF8&node=16008589011  
 
