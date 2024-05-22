@@ -79,7 +79,7 @@ Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
 **Historia de BlaBlaCar**: [Descúbrelo aquí](https://blog.blablacar.es/about-us/nuestra-historia) 
 
-Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-saber-blablacar-plataforma-compartir-coche-referencia-espana  
+**All about us Blablacar Blog**: [Descúbrelo aquí](https://blog.blablacar.com/newsroom/news-list) 
 
 Tecnologia Boost BlaBlaCar: https://blog.blablacar.es/newsroom/noticias/blablacar-lanza-boost-una-tecnologia-que-duplica-las-posibilidades-de-encontrar-coche-compartido  
 
