@@ -79,13 +79,13 @@ Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
 **Historia de BlaBlaCar**: [Descúbrelo aquí](https://blog.blablacar.es/about-us/nuestra-historia) 
 
-**All about us Blablacar Blog**: [Descúbrelo aquí](https://blog.blablacar.com/newsroom/news-list) 
+**What´s new? Blablacar Blog**: [Descúbrelo aquí](https://blog.blablacar.com/newsroom/news-list) 
 
-Tecnologia Boost BlaBlaCar: https://blog.blablacar.es/newsroom/noticias/blablacar-lanza-boost-una-tecnologia-que-duplica-las-posibilidades-de-encontrar-coche-compartido  
+**Tecnología Boost BlaBlaCar**: [Descúbrelo aquí](https://blog.blablacar.es/newsroom/noticias/blablacar-lanza-boost-una-tecnologia-que-duplica-las-posibilidades-de-encontrar-coche-compartido)
 
-Soporte BlablaCar/ Formas de pago/gestion de cobro: https://support.blablacar.com/hc/es/articles/4405735631377-Formas-de-pago-aceptadas  
+**BlablaCar/ Formas de pago/ Gestión de cobro**:[Descúbrelo aquí](https://support.blablacar.com/hc/es/articles/4405735631377-Formas-de-pago-aceptadas) 
 
-Amazon GO official website: https://www.amazon.com/b?ie=UTF8&node=16008589011  
+**Amazon GO official website**:[Descúbrelo aquí](https://www.amazon.com/b?ie=UTF8&node=16008589011) 
 
-New York Times: Amazon Go, a store of the future: https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html  
+**New York Times: Amazon Go, a store of the future**:[Descúbrelo aquí](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html)  
 
