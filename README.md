@@ -87,5 +87,5 @@ Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
 **Amazon GO official website**:[Descúbrelo aquí](https://www.amazon.com/b?ie=UTF8&node=16008589011) 
 
-**New York Times: Amazon Go, a store of the future**:[Descúbrelo aquí](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html)  
+**New York Times Technology: Amazon Go, a store for the future**:[Descúbrelo aquí](https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html)  
 
