@@ -75,8 +75,6 @@ Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elemen
  
 ## Bibliografía & Webgrafía
 
-Lorem ipsum..
-
 Historia de BlaBlaCar:  https://blog.blablacar.es/about-us/nuestra-historia  
 
 Todo sobre Blablacar : https://www.motorpasion.com/industria/todo-que-debes-saber-blablacar-plataforma-compartir-coche-referencia-espana  
@@ -86,4 +84,8 @@ Tecnologia Boost BlaBlaCar: https://blog.blablacar.es/newsroom/noticias/blablaca
 Soporte BlablaCar/ Formas de pago/gestion de cobro: https://support.blablacar.com/hc/es/articles/4405735631377-Formas-de-pago-aceptadas  
 
 El Software toma el mando [Lev Manovich, 2013] 
+
+Amazon GO official website: https://www.amazon.com/b?ie=UTF8&node=16008589011  
+
+New York Times: Amazon Go, a store of the future: https://www.nytimes.com/2018/01/21/technology/inside-amazon-go-a-store-of-the-future.html  
 
