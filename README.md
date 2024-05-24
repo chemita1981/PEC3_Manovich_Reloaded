@@ -45,7 +45,7 @@ La hibridación de medios de Lev Manovich referida a la plataforma BlaBlacar se 
 
 **Combinación de elementos propios de redes sociales**: BlaBlaCar integra características de las redes sociales, permitiendo a los usuarios interactuar, revisar perfiles y calificaciones, enviar mensajes y compartir experiencias a través de comentarios. 
 
-**Sistemas de Geolocalización**: BlaBlacar emplea sistemas como “Boost” para geolocalizar conductores y planificar rutas. Ya no es necesario ajustarse a horarios fijos de transporte para planificar un viaje. Esto permite una mayor adaptabilidad y flexibilidad al organizar los desplazamientos, ya que no se depende de los horarios preestablecidos del transporte. 
+**Sistemas de geolocalización**: BlaBlacar emplea sistemas como “Boost” para geolocalizar conductores y planificar rutas. Ya no es necesario ajustarse a horarios fijos de transporte para planificar un viaje. Esto permite una mayor adaptabilidad y flexibilidad al organizar los desplazamientos, ya que no se depende de los horarios preestablecidos del transporte. 
 
 **Integración de formas de pago**: BlaBlaCar cuenta con plataformas de pago como PayPal, Visa, MasterCard, Apple Pay y Google Pay proporcionando a la propia plataforma de viajes compartidos, tecnología financiera avanzada para la gestión de pagos y cobros de los usuarios. 
 
