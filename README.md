@@ -66,13 +66,13 @@ El sistema "Just Walk Out" de Amazon GO funciona principalmente gracias a tres c
 
 >**Identificación del cliente**: para ingresar a la tienda, los clientes escanean un código QR para identificarse. 
 
->**Detección y seguimiento de productos**: una vez dentro de la tienda, una combinación de cámaras, sensores y algoritmos avanzados de aprendizaje automático (machine learning) detecta y sigue los productos que los clientes retiran de los estantes. 
+>**Detección y seguimiento de productos**: una vez dentro de la tienda, una combinación de cámaras, sensores y algoritmos avanzados de aprendizaje automático (Machine Learning) detecta y sigue los productos que los clientes retiran de los estantes. 
 
 >**Finalización de la transacción**: al salir del establecimiento, la infraestructura en la nube de Amazon Web Services (AWS) carga automáticamente el costo de los productos a la cuenta de Amazon del cliente y envía un recibo digital, eliminando así la necesidad de pasar por una caja registradora.
 
 
 ### Pero entonces... ¿dónde está la hibridación en Amazon GO? 
-En el caso concreto de Amazon GO, la integración de diferentes tecnologías y medios se fusiona para ofrecer una experiencia de compra completamente innovadora. El uso de **machine learning** combinado con sensores de peso en las propias baldas, hace posible identificar y seguir los productos en tiempo real con muy poca intervención por parte del cliente. Los sensores detectan cuando un cliente toma o devuelve un artículo, y los algoritmos de machine learning procesan esta información para actualizar automáticamente el carrito de compra en la aplicación. Este sistema elimina la necesidad de escanear productos o interactuar con el personal, ofreciendo así una experiencia de compra fluida y eficiente. 
+En el caso concreto de Amazon GO, la integración de diferentes tecnologías y medios se fusiona para ofrecer una experiencia de compra completamente innovadora. El uso de **Machine Learning** combinado con sensores de peso en las propias baldas, hace posible identificar y seguir los productos en tiempo real con muy poca intervención por parte del cliente. Los sensores detectan cuando un cliente toma o devuelve un artículo, y los algoritmos de machine learning procesan esta información para actualizar automáticamente el carrito de compra en la aplicación. Este sistema elimina la necesidad de escanear productos o interactuar con el personal, ofreciendo así una experiencia de compra fluida y eficiente. 
 
 La recopilación de datos en tiempo real de cada cliente se **compila en bases de datos y se analiza** para personalizar su experiencia en la tienda. Esta información se emplea entre otras cosas, para mejorar la disposición de los productos, personalizar promociones, ajustar el inventario... 
 
@@ -80,7 +80,7 @@ Finalmente, Amazon GO se integra con otros servicios digitales de Amazon, como *
 
  ### Conclusiones
  
-Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elementos técnicos para crear nuevas formas de interacción con el usuario. Al integrar algoritmos de machine learning, sensores de peso, códigos QR de identificación, sistema de pago en la nube y demás medios tecnológicos de última generación, Amazon GO transforma la manera en que las personas compran en tiendas físicas, alineándose con las ideas de Lev Manovich sobre la softwarización de la cultura. La tienda de Amazon GO no solo redefine la experiencia de compra, sino que también muestra cómo la última tecnología puede crear ecosistemas interconectados para ofrecer una experiencia al usuario completamente innovadora. 
+Amazon GO es un ejemplo de cómo la tecnología puede hibridar diferentes elementos técnicos para crear nuevas formas de interacción con el usuario. Al integrar algoritmos de Machine Learning, sensores de peso, códigos QR de identificación, sistema de pago en la nube y demás medios tecnológicos de última generación, Amazon GO transforma la manera en que las personas compran en tiendas físicas, alineándose con las ideas de Lev Manovich sobre la softwarización de la cultura. La tienda de Amazon GO no solo redefine la experiencia de compra, sino que también muestra cómo la última tecnología puede crear ecosistemas interconectados para ofrecer una experiencia al usuario completamente innovadora. 
  
 ## Bibliografía & Webgrafía
 
