@@ -40,6 +40,8 @@ BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema nove
 
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
 
+### Entonces...¿dónde se produce la hibridación según las estrategias de Manovich?
+
  ### Conclusiones
  
 BlaBlaCar trasciende su papel como una simple aplicación de carpooling para convertirse en una plataforma **híbrida** que mezcla transporte, tecnología de geolocalización, transacción de pagos y red social. 
