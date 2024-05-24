@@ -49,13 +49,11 @@ La hibridación de medios de Lev Manovich referida a la plataforma BlaBlacar se 
 
 **Integración de formas de pago**: BlaBlaCar cuenta con plataformas de pago como PayPal, Visa, MasterCard, Apple Pay y Google Pay proporcionando a la propia plataforma de viajes compartidos, tecnología financiera avanzada para la gestión de pagos y cobros de los usuarios. 
 
-En definitiva, según las estrategias de hibridación de Manovich, BlaBlaCar demuestra cómo la combinación de distintos medios y tecnologías, como las redes sociales, la geolocalización y las tecnologías de pago, puede dar lugar a plataformas innovadoras y multifuncionales que antes no existían. Esto mejora notablemente la funcionalidad de los medios y transforma la forma en la que los usuarios interactúan, consumen y contribuyen en estas plataformas. 
-
  ### Conclusiones
  
 BlaBlaCar trasciende su papel como una simple aplicación de carpooling para convertirse en una plataforma **híbrida** que mezcla transporte, tecnología de geolocalización, transacción de pagos y red social. 
 
-Según Lev Manovich, “la hibridación se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión y funcionalidad” (Manovich, 2013, p.194). BlaBlaCar es un claro ejemplo de este concepto de hibridación que combina diferentes tecnologías y establece nuevos modos de interacción y comunicación en los viajes compartidos que van más allá del transporte tradicional. 
+En definitiva, según las estrategias de hibridación de Manovich, BlaBlaCar demuestra cómo la integración de diferentes medios y tecnologías, como redes sociales, geolocalización y sistemas de pago, puede crear plataformas innovadoras y multifuncionales que antes no existían. Esto no solo mejora significativamente la funcionalidad de los medios, sino que también transforma la manera en que los usuarios interactúan, consumen y contribuyen en estas plataformas. Según Lev Manovich, "la hibridación se refiere a la combinación de diferentes estilos y medios para crear nuevos modos de expresión y funcionalidad" (Manovich, 2013, p.194). BlaBlaCar ejemplifica este concepto al combinar diversas tecnologías y establecer nuevas formas de interacción y comunicación en los viajes compartidos, superando el modelo tradicional de transporte. 
 
 ## [Amazon GO](https://www.amazon.com/-/es/b?ie=UTF8&node=16008589011) ¡GO Hibridación, GO!
 ![CulturaDigital](AMAZON_GO1.png)
