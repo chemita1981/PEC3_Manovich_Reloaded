@@ -41,6 +41,15 @@ BlaBlaCar emplea tecnologías avanzadas de geolocalización como el sistema nove
 Por otro lado, BlaBlaCar emplea las plataformas más robustas para la gestión de pagos entre usuarios, como son PayPal, Visa, MasterCard, Apple Pay y Google Pay. Esto asegura una experiencia de pago segura y eficiente, ofreciendo múltiples opciones para adaptarse a las preferencias de cada usuario. 
 
 ### Entonces...¿dónde se produce la hibridación según las estrategias de Manovich?
+La hibridación de medios de Lev Manovich referida a la plataforma BlaBlacar se produce en varios aspectos clave: 
+
+**Combinación de elementos propios de redes sociales**: BlaBlaCar integra características de las redes sociales, permitiendo a los usuarios interactuar, revisar perfiles y calificaciones, enviar mensajes y compartir experiencias a través de comentarios. 
+
+**Sistemas de Geolocalización**: BlaBlacar emplea sistemas como “Boost” para geolocalizar conductores y planificar rutas. Ya no es necesario ajustarse a horarios fijos de transporte para planificar un viaje. Esto permite una mayor adaptabilidad y flexibilidad al organizar los desplazamientos, ya que no se depende de los horarios preestablecidos del transporte. 
+
+**Integración de formas de pago**: BlaBlaCar cuenta con plataformas de pago como PayPal, Visa, MasterCard, Apple Pay y Google Pay proporcionando a la propia plataforma de viajes compartidos, tecnología financiera avanzada para la gestión de pagos y cobros de los usuarios. 
+
+En definitiva, según las estrategias de hibridación de Manovich, BlaBlaCar demuestra cómo la combinación de distintos medios y tecnologías, como las redes sociales, la geolocalización y las tecnologías de pago, puede dar lugar a plataformas innovadoras y multifuncionales que antes no existían. Esto mejora notablemente la funcionalidad de los medios y transforma la forma en la que los usuarios interactúan, consumen y contribuyen en estas plataformas. 
 
  ### Conclusiones
  
